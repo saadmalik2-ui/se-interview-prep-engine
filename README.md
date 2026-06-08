@@ -6,8 +6,6 @@ An open source AI powered interview prep tool for Sales Engineers. Built with Py
 
 ![Main interface with both modes](main.png)
 
-![Generated interview questions](questions.png)
-
 ![STAR feedback with stronger version](feedback.png)
 
 Paste your resume, the job description, and any notes about the interviewer. Get tailored interview questions across 6 categories — Behavioral, Domain Knowledge, Discovery, Objection Handling, Technical Translation, and Executive. Each question comes with a "why" explanation so you know exactly what the interviewer is testing.
